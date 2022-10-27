@@ -14,6 +14,9 @@ app.get("/", (req, res) => {
 app.get("/mern", (req, res) => {
   res.send(MERN);
 });
+app.get("/mmernalldataern", (req, res) => {
+  res.send(mernalldata);
+});
 app.get("/mernalldata", (req, res) => {
   res.send(mernalldata);
 });

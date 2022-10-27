@@ -2,36 +2,51 @@
   {
     "id": "010",
     "category_id": "01",
-    "title": "about MERN@",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "title": "HTML",
+    "img": "https://play-lh.googleusercontent.com/nInuLoalrQPk_IVBvMsWOdkZNmLO3kV15AR2gfgo9YIE22YjN4hb7epY1ZNEB-pm3JDm",
+    "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
+    "pay": "free",
+    "download": "Download pdf"
+  },
+  {
+    "id": "01789",
+    "category_id": "01",
+    "title": "HTML",
+    "img": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+    "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.It's a markup language. In fact, that is the technology's name: HyperText Markup Language. That self-identified fact alone should settle the debate.",
+    "pay": "$199",
+    "downloadss": "Enroll"
   },
   {
     "id": "020",
     "category_id": "02",
-    "title": "about MERN@",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "title": "CSS",
+    "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+    "details": "What is CSS? CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.",
+    "pay": "free",
+    "download": "Download pdf"
   },
   {
     "id": "0208",
     "category_id": "02",
-    "title": "about MERN@22222",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "title": "CSS",
+    "img": "https://freecoursesites.org/wp-content/uploads/2019/12/CSS-The-Complete-Guide-2020-incl.-Flexbox-Grid-Sass-Course-Site.jpg",
+    "details": "In CSS, first read the theory on what CSS is, how it works in the browser, and its basic syntax and usage. Learn about the different kinds of stylesheets available, their differences, selectors, and basic styling such as font-size , width , height etc. You can get started by going through the tutorials at MDN.",
+    "pay": "$199",
+    "downloadss": "Enroll"
   },
   {
     "id": "030",
     "category_id": "03",
-    "title": "about MERN@3333",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "title": "GitHub",
+    "img": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
   },
   {
     "id": "0308",
     "category_id": "03",
-    "title": "about MERN@3434",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "title": "GitHub",
+    "img": "https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/GitHub.jpg",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
   },
   {
@@ -94,13 +109,6 @@
     "id": "0608",
     "category_id": "06",
     "title": "about MERN@432432432432",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "01789",
-    "category_id": "01",
-    "title": "about MERN@4324324",
     "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
   }
