@@ -39,77 +39,54 @@
     "id": "030",
     "category_id": "03",
     "title": "GitHub",
-    "img": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "details": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.",
+    "pay": "free",
+    "download": "Download pdf"
   },
   {
     "id": "0308",
     "category_id": "03",
     "title": "GitHub",
-    "img": "https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/GitHub.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "img": "https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png",
+    "details": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests You can use organizations for free, with GitHub Free, which includes limited features on private repositories.",
+    "pay": "$199",
+    "downloadss": "Enroll"
   },
   {
-    "id": "0408",
+    "id": "030",
     "category_id": "04",
-    "title": "about MERN@44444",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "title": "Javascript",
+    "img": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
+    "details": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.",
+    "pay": "free",
+    "download": "Download pdf"
   },
   {
-    "id": "050",
+    "id": "0308",
+    "category_id": "04",
+    "title": "Javascript",
+    "img": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
+    "details": "Both of these are computer languages that help in programming, but there is a major difference between JavaScript and HTML. While JavaScript (abbreviated as JS) is a scripting language, HTML is a markup language. We use HTML to create web pages or web applications.JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user",
+    "pay": "$199",
+    "downloadss": "Enroll"
+  },
+  {
+    "id": "030",
     "category_id": "05",
-    "title": "about MERN@555555",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "title": "Bootstrap",
+    "img": "https://blog.codedthemes.com/wp-content/uploads/2020/04/bootstrap-5.jpg",
+    "details": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.",
+    "pay": "free",
+    "download": "Download pdf"
   },
   {
-    "id": "0508",
+    "id": "0308",
     "category_id": "05",
-    "title": "about MERN@565656",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "0708",
-    "category_id": "07",
-    "title": "about MERN@77777",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "070",
-    "category_id": "07",
-    "title": "about MERN@78877",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "080",
-    "category_id": "08",
-    "title": "about MERN@88888888",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "0808",
-    "category_id": "08",
-    "title": "about MERN@899898",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "060",
-    "category_id": "06",
-    "title": "about MERN@43",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
-  },
-  {
-    "id": "0608",
-    "category_id": "06",
-    "title": "about MERN@432432432432",
-    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly"
+    "title": "Bootstrap",
+    "img": "https://blog.codedthemes.com/wp-content/uploads/2020/04/bootstrap-5.jpg",
+    "details": "Both of these are computer languages that help in programming, but there is a major difference between JavaScript and HTML. While JavaScript (abbreviated as JS) is a scripting language, HTML is a markup language. We use HTML to create web pages or web applications.JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user",
+    "pay": "$199",
+    "downloadss": "Enroll"
   }
 ]
