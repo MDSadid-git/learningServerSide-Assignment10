@@ -124,5 +124,23 @@
     "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
     "pay": "$199",
     "downloadss": "Enroll"
+  },
+  {
+    "id": "030",
+    "category_id": "08",
+    "title": "Node js",
+    "img": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+    "details": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.",
+    "pay": "free",
+    "download": "Download pdf"
+  },
+  {
+    "id": "0308",
+    "category_id": "08",
+    "title": "Node js",
+    "img": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+    "details": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.",
+    "pay": "$199",
+    "downloadss": "Enroll"
   }
 ]
