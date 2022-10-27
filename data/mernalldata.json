@@ -106,5 +106,23 @@
     "details": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.",
     "pay": "$199",
     "downloadss": "Enroll"
+  },
+  {
+    "id": "030",
+    "category_id": "07",
+    "title": "React",
+    "img": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+    "pay": "free",
+    "download": "Download pdf"
+  },
+  {
+    "id": "0308",
+    "category_id": "07",
+    "title": "React",
+    "img": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+    "pay": "$199",
+    "downloadss": "Enroll"
   }
 ]
